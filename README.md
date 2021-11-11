@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Shipbuilding prices
 
-You can use the [editor on GitHub](https://github.com/uwo-omich/uwo-omich.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Grading ship g0 to g3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You provide me with: Ship, SRH (usually 100m) and 1b. I'm doing the rest.
 
-### Markdown
+## Grading ship g0 to g6, SSU123
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You provide me with: Ship, SRH (usually 100m), SRI (usually 2CTs), USB (usaully 400m).
 
-```markdown
-Syntax highlighted code block
+For adventuring and trade ships price is 2b or 1CT + 500m.
 
-# Header 1
-## Header 2
-### Header 3
+For battle ships price is 5b or 3CTs.
 
-- Bulleted
-- List
+I'm doing the rest.
 
-1. Numbered
-2. List
+## Modding ship to max sails, ts, wr, hold + adding skills
 
-**Bold** and _Italic_ and `Code` text
+You provide me with: Ship, 81 SSIPs (usually 27m), 3 ISS (350m), 1 AESH (650m), 13 ESBRs (50m), 7 LSS (33m), 1-3 OPS (50m, depends on choice of Original Ship Skill) and 1.5b or 1CT. I'm doing the rest.
+	
+## Skill inherition
 
-[Link](url) and ![Image](src)
-```
+You provide me with g3 donor ship and g0 main ship, SRH (usually 100m), Large Ship Blueprint and 300m. I'm doing the rest.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Aide Clermont for beginners
 
-### Jekyll Themes
+You provide me with 150m and receive Clermont g1 with 1492 cargo (grading bonus is cargo hold upgrade). No mods, no skills, etc.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uwo-omich/uwo-omich.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Nanban Clermont for alts
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You provide me 2CTs and receive G3 Clermont with NTP, camo-hold, galleys and workshops, 1504 cargo and 15+ water resistance.
