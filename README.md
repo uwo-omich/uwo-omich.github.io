@@ -27,4 +27,4 @@ Feel free to mail me in game, nickname Omich. I'm AFK 90% of time and I usually 
 
 ## Details
 
-* - you can assist me in grading to speed up the process by buying material ships from SY Master and setting it on bazaar at 1 ducat in bulk. It will speed me up and probably help overcome 1 or 2 g5->g6 failed grading attempts.
+\* - you can assist me in grading to speed up the process by buying material ships from SY Master and setting it on bazaar at 1 ducat in bulk. It will speed me up and probably help overcome 1 or 2 g5->g6 failed grading attempts.
