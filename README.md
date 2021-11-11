@@ -1,6 +1,6 @@
 # Shipbuilding prices
 
-| Service | Mats required from customer | Price (mil. ducats) | Price (CTs)|
+| Service | Materials required from customer | Price (mil. ducats) | Price (CTs)|
 | :--- | :--- | ---: | ---: |
 |**Grading**|
 | Grading g0 to g3 |Ship, SRH (usually 100m)|1000|-|
