@@ -1,5 +1,7 @@
 # Shipbuilding prices
 
+The only thing I hate is to procure UWC parts and consumables from merchant chat even if I given with 3x amount of ducats for doing it.
+
 | Service | Materials required from customer | Price (mil. ducats) | Price (CTs)|
 | :--- | :--- | ---: | ---: |
 |**Grading**|
