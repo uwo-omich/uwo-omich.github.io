@@ -6,7 +6,7 @@ The only thing I hate is to procure UWC parts and consumables from merchant chat
 | :--- | :--- | ---: | ---: |
 |**Grading**|
 | Grading g0 to g3 |Ship, SRH (usually 100m)|1000|-|
-| Grading advent. or trade ship g0 to g6, SSU123|Ship, SRH (usually 100m), SRI (usually 2CTs), USB (usaully 400m)|2000|1 + 500m|
+| Grading advent. or trade ship g0 to g6, SSU123|Ship, SRH (usually 100m), SRI (usually 2CTs) *, USB (usaully 400m)|2000|1 + 500m|
 | Grading battle ship g0 to g6, SSU123|Ship, SRH (usually 100m), SRI (usually 2CTs), USB (usaully 400m)|5100|3|
 | Skill inherition|g3 donor ship and g0 main ship,SRH (usually 100m), Large Ship Blueprint (usually 5m)|300|-|
 |**Modding**|
@@ -24,3 +24,7 @@ The only thing I hate is to procure UWC parts and consumables from merchant chat
 ## Contacts
 
 Feel free to mail me in game, nickname Omich. I'm AFK 90% of time and I usually miss the messages in chat.
+
+## Details
+
+* - you can assist me in grading to speed up the process by buying material ships from SY Master and setting it on bazaar at 1 ducat in bulk. It will speed me up and probably help overcome 1 or 2 g5->g6 failed grading attempts.
