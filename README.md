@@ -20,3 +20,7 @@ The only thing I hate is to procure UWC parts and consumables from merchant chat
 |1 hour, giving advices or explaining|-|300||
 |**Building**|
 |Potosi, Big Trading Clipper, Long Schooner, Long Merchant Schooner, Clermont etc|Hull|100|
+
+## Contacts
+
+Feel free to mail me in game, nickname Omich. I'm AFK 90% of time and I usually miss the messages in chat.
