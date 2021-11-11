@@ -16,3 +16,5 @@
 |1 hour, AFK|-|100||
 |5 hours, AFK|-|400||
 |1 hour, giving advices or explaining|-|300||
+|**Building**|
+|Potosi, Big Trading Clipper, Long Schooner, Long Merchant Schooner, Clermont etc|Hull|100|
