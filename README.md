@@ -33,11 +33,11 @@ Feel free to mail me in game, nickname Omich. I'm AFK 90% of time and I usually 
 | SRI | Ship Refitting Instruction - +30% success rate of grading | 2CT |
 | USB | Ultimate Ship Blueprint - maximize grade exp of ship (+7..14% grading success) | 400m |
 | LSBP | Large Ship Blueprint - adds 20% grade exp to ship at g0 (+7% grading success) | 5m |
-| AESH | Augmented Expanded Ship Hold - UWC Ship Part +10..+14 hold +3..+5 wave resistance | 600m |
+| AESH | Augmented Expanded Ship Hold - UWC Ship Part: +10..+14 hold & +1..+3 wave resistance | 600m |
 | ESBR | Emergency Shipbuilding Request - allows to instantly finish the ship improvement or skill adding instead of waiting 20-30 minutes between each mod | 60m |
-| LSS | Large Storm Sail - Ship Part +15..+25 h-sails, +3..+5 wave resist | 33m |
+| LSS | Large Storm Sail - Ship Part +15..+25 h-sails & +3..+5 wave resist | 33m |
 | OSP | Original Ship Permit - required to add original ship skill to the ship | 50m |
-| ISS | Improved Skysail - cheapest UWC Ship Part, +1..+3 turn speed and some h-v-sails | 350m |
+| ISS | Improved Skysail - cheapest UWC Ship Part, +1..+3 turn speed & some h-v-sails | 350m |
 | SSIP | Special Ship Improvment Permit - consumable required for modding | 26m |
 
 ## Details
