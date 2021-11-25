@@ -13,5 +13,5 @@ It's a simple Nanban calculator and it will save you some ducats and time.
 
 <input type="number" id="max_cargo" placeholder="3000">
 
-<button class="btn">Calculate how much to give</button>
+<button class="btn" onclick="nanban_calc()">Calculate how much to give</button>
 
