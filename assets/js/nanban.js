@@ -3,5 +3,6 @@ function nanban_calc() {
 	let pre_ea_amount = parseInt(document.getElementById("pre_ea_amount").value);
 	let max_cargo = parseInt(document.getElementById("max_cargo").value);
 	let post_npc_eu_amount = pre_npc_eu_amount / (pre_ea_amount / (max_cargo / 3));
-	document.getElementById("result").value = "You should trade " + post_npc_eu_amount + " EA items";
+	let result_string = "You should trade " + post_npc_eu_amount.toFixed() + " EA items";
+	document.getElementById("result").innerText = result_string;
 }
