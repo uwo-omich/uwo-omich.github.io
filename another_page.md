@@ -15,3 +15,4 @@ It's a simple Nanban calculator and it will save you some ducats and time.
 
 <button class="btn" onclick="nanban_calc()">Calculate how much to give</button>
 
+<p id="result"></p>
